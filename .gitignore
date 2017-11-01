@@ -18,3 +18,5 @@
 /_SRC_Services/bin/Debug/netcoreapp2.0
 /_SRC_DAL/bin/Debug/netcoreapp2.0
 /_SRC_BL/bin/Debug/netcoreapp2.0
+/_SRC_DB/bin/Debug
+/_SRC_DB/obj/Debug
