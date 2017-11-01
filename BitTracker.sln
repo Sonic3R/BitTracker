@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitTrackerUICore", "BitTrackerUICore\BitTrackerUICore.csproj", "{80E5BE48-E523-410A-A101-7E43385A5C20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UICore", "BitTrackerUICore\UICore.csproj", "{80E5BE48-E523-410A-A101-7E43385A5C20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
