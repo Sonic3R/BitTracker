@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "_SRC_Services\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TL", "_SRC_TL\TL.csproj", "{E629E16A-B547-45D2-B052-CA7A08BA9A02}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB", "DB\DB.sqlproj", "{AD5EE00D-90D5-431C-999F-C244833775FE}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB", "_SRC_DB\DB.sqlproj", "{AD5EE00D-90D5-431C-999F-C244833775FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
