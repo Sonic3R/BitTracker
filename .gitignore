@@ -4,3 +4,7 @@
 
 /.vs
 /BitTrackerUICore/obj
+/BL/obj
+/DAL/obj
+/Services/obj
+/TL/obj
