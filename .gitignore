@@ -13,3 +13,8 @@
 /_SRC_Services/obj
 /_SRC_TL/obj
 /_SRC_UICore/obj
+/_SRC_UICore/bin/Debug/netcoreapp2.0
+/_SRC_TL/bin/Debug/netcoreapp2.0
+/_SRC_Services/bin/Debug/netcoreapp2.0
+/_SRC_DAL/bin/Debug/netcoreapp2.0
+/_SRC_BL/bin/Debug/netcoreapp2.0
