@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DAL.csproj" />
-    <ProjectReference Include="..\TL\TL.csproj" />
+    <ProjectReference Include="..\_SRC_DAL\DAL.csproj" />
+    <ProjectReference Include="..\_SRC_TL\TL.csproj" />
   </ItemGroup>
 
 </Project>

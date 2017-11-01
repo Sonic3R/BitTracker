@@ -8,3 +8,8 @@
 /DAL/obj
 /Services/obj
 /TL/obj
+/_SRC_BL/obj
+/_SRC_DAL/obj
+/_SRC_Services/obj
+/_SRC_TL/obj
+/_SRC_UICore/obj
